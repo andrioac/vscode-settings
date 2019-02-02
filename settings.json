@@ -1,0 +1,9 @@
+{
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\wsl.exe",
+    "window.zoomLevel": 1,
+    "files.trimTrailingWhitespace": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Visual Studio Dark",
+    "editor.fontFamily": "Fira Code Retina, Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true
+}
