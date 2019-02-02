@@ -1,0 +1,7 @@
+{
+    "files.trimTrailingWhitespace": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Visual Studio Dark",
+    "editor.fontFamily": "FiraCode-Retina, Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true
+}
